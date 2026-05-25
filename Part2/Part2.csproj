@@ -4,7 +4,8 @@
     <OutputType>Exe</OutputType>
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
-        <StartupObject>Properties.Program</StartupObject>
+        <!-- <StartupObject>Properties.Program</StartupObject> -->
+        <StartupObject>Indexers.Program</StartupObject>
     <Nullable>enable</Nullable>
   </PropertyGroup>
 

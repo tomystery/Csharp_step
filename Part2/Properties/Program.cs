@@ -7,7 +7,7 @@ namespace Properties
 
     public int area => width * height; // => 会变成了一个计算属性
 
-    static void Main(string[] args)
+    static void Main1(string[] args)
     {
       var program = new Program();
       program.width = 5;

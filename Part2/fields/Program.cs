@@ -2,7 +2,7 @@ namespace Fields
 {
   class Program
   {
-    static void Main(string[] args)
+    static void Main1(string[] args)
     {
       var customer = new Customer(1);
       customer.Orders.Add(new Order());
